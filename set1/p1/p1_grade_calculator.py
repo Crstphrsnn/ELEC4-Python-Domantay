@@ -1,4 +1,5 @@
-# Full name: [Your full name] | Section: [Your section] | Activity: P1 | Date: 2026-11-23
+# Full name: Cristopherson T. Domantay
+# Section: IV-BSIT-C
 
 PASSING_GRADE = 75
 

@@ -1,4 +1,5 @@
-# Full name: [Your full name] | Section: [Your section] | Activity: P2 | Date: 2026-11-23
+# Full name: Cristopherson T. Domantay
+# Section: IV-BSIT-C
 
 from datetime import datetime
 

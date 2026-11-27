@@ -1,5 +1,5 @@
-# Full name: [Your full name] | Section: [Your section] | Activity: P4 | Date: 2026-11-23
-
+# Full name: Cristopherson T. Domantay
+# Section: IV-BSIT-C
 
 def divide_numbers():
     try:

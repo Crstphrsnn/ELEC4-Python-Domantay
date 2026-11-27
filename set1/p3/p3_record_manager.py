@@ -1,4 +1,5 @@
-# Full name: [Your full name] | Section: [Your section] | Activity: P3 | Date: 2026-11-23
+# Full name: Cristopherson T. Domantay
+# Section: IV-BSIT-C
 
 
 def add_student(students, known_names):
